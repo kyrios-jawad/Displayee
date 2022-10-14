@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "750063165552",
+    "firebase_url": "https://displayee-831c9-default-rtdb.firebaseio.com",
+    "project_id": "displayee-831c9",
+    "storage_bucket": "displayee-831c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750063165552:android:d90c9bccb5dec0f44254b5",
+        "android_client_info": {
+          "package_name": "com.kyrios.displayee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750063165552-u889jgln2h71hk0vjq8pvcu87s45pd3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUq447IhWIXGiMx7rByFO8ADBknb6maZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750063165552-u889jgln2h71hk0vjq8pvcu87s45pd3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750063165552:android:9e702077521b00e24254b5",
+        "android_client_info": {
+          "package_name": "com.rishav.instaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750063165552-u889jgln2h71hk0vjq8pvcu87s45pd3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUq447IhWIXGiMx7rByFO8ADBknb6maZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750063165552-u889jgln2h71hk0vjq8pvcu87s45pd3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Displayee</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="full_name">Full name</string>
+    <string name="slogan">Showcase your talent</string>
+    <string name="send">Send</string>
+    <string name="welcome_back">We\'re excited to see you again!</string>
+    <string name="email_placeholder">abc@email.com</string>
+    <string name="password_placeholder">Your password</string>
+    <string name="or">OR</string>
+    <string name="already_have_an_account">Already have an account?&#160;</string>
+    <string name="no_account">Don’t have an account?&#160;</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_acc">Create an account</string>
+    <string name="username_placeholder">Enter Username</string>
+    <string name="register_policy">by clicking this button i agree with</string>
+    <string name="terms_policy">Term\'s And Policy</string>
+    <string name="welcome_to">Welcome to displayee</string>
+    <string name="welcome_txt">A very warm welcome to you! It is lovely to have you among us!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="descrption">description</string>
+    <string name="settings">Setting\'s</string>
+    <string name="username">Vintaexx</string>
+    <string name="logout">Logout</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="search">Search</string>
+    <string name="name">Full name</string>
+</resources>
